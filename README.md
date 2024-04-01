@@ -1,4 +1,4 @@
-# Contract Version 2.0
+# Healix Protocol
 
 ### Token contract
 
