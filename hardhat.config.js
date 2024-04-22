@@ -12,6 +12,10 @@ module.exports = {
     bsc: {
       url: 'https://bsc-dataseed.binance.org/',
       accounts: [process.env.PRIVATE_KEY]
+    },
+    sepolia: {
+      url: 'https://ethereum-sepolia-rpc.publicnode.com',
+      accounts: [process.env.PRIVATE_KEY_TESTNET]
     }
   },
   etherscan: {
